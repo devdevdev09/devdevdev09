@@ -1,6 +1,6 @@
 ### 안녕하세요^^ 👋
 
-#### 이것저것 만들어보고 테스트를 위한 저장소입니다.
+### project : https://devdevdev09.github.io/project
 
 <!--
 **devdevdev09/devdevdev09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
