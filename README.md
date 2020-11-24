@@ -2,10 +2,6 @@
 
 ![dev09's github stats](https://github-readme-stats.vercel.app/api?username=devdevdev09&show_icons=true&theme=merko)
 
-### PROJECT : https://devdevdev09.github.io/project
-
-### TODO : https://github.com/users/devdevdev09/projects/1
-
 <!--
 **devdevdev09/devdevdev09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
