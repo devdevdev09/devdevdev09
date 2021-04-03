@@ -1,5 +1,5 @@
 
-![dev09's github stats](https://github-readme-stats.vercel.app/api?username=devdevdev09&show_icons=true&theme=merko)
+![dev09's github stats](http://heodae.com:8080/lotto)
 
 <!--
 **devdevdev09/devdevdev09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
